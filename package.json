@@ -1,0 +1,27 @@
+{
+  "name": "go-duration",
+  "version": "1.0.0",
+  "description": "Converts a humanreadble string of duration to miliseconds",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorgo/go-duration.git"
+  },
+  "keywords": [
+    "duration",
+    "human",
+    "readable"
+  ],
+  "author": "Igor Gorodetskyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorgo/go-duration/issues"
+  },
+  "homepage": "https://github.com/igorgo/go-duration#readme",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.23.0"
+  }
+}
